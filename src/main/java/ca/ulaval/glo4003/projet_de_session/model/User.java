@@ -13,4 +13,5 @@ public abstract class User extends Observable implements Serializable {
 	
 	private Integer id;
 	private String name;
+	/*5555555*/
 }
