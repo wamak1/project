@@ -11,7 +11,9 @@ public abstract class User extends Observable implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	
+	@SuppressWarnings("unused")
 	private Integer id;
+	@SuppressWarnings("unused")
 	private String name;
-	/*5555555*/
+
 }
